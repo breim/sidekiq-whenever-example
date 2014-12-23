@@ -29,5 +29,4 @@ be happy =)
 
 Disclaimer
 
-- Você precisa abrir o servidor do redis no diretorio da sua aplicação, senão o sidekiq não funciona corretamente
 - Para tudo ficar bonito, você precisa fazer uma 'rake task' para testar seu codigo e só depois fazer um worker, desse jeito você confirma se o problema é no seu codigo e não na sua implementação no worker
